@@ -1,5 +1,5 @@
-module.export = {
-    sayHello: () => {
-        return 'hello';
+module.exports = {
+    sayHello: function () {
+      return 'hello';
     }
-}
+  }
